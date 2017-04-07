@@ -1,0 +1,1 @@
+javadoc -version -private -author -d Documentation *.java
