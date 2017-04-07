@@ -11,9 +11,10 @@ How To Run-
 1> Open command prompt (for Windows)
 2> cd to (goto) the bin folder where MagicRenamer.jar is kept.
 3> Type 'run' and hit Enter. Note: skip the quotes (').
-4> Follow the on-screen instructions. It will ask you for the
-   path where files to be renamed are kept along with the renaming criteria
-   i.e. the modifications you want to make.
+4> Follow the on-screen instructions. It will ask you for the path where files to be renamed are kept along with the renaming criteria i.e. the modifications you want to make.
+
+Editing source code-
+If you don't create any sub folders, feel free to compile, document and export to jar using compile.bat, document.bat and export.bat respectively. Note - You need to run compile.bat before using document.bat or export.bat.
 
 Contribute-
 Help me improve this opens source project. All the source code are on GitHub. See all my open source projects (including Magic Renamer) on my GitHub profile at https://github.com/divyanshshekhar
