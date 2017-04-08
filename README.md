@@ -21,7 +21,7 @@ Help me improve this opens source project. All the source code are on GitHub. Se
 
 Developed By- Divyansh Shekhar Gaur
 Connect with developer -
-	Twitter : https://www.twitter.com/divyanshshekhar"
+	Twitter : https://www.twitter.com/divsgaur"
 	Google Plus : https://plus.google.com/+DivyanshShekhar
 	GitHub : https://github.com/divyanshshekhar
 	
