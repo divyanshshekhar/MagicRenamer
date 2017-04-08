@@ -3,6 +3,10 @@ You can rename a number of files at once using this Java based tool. You can per
 
 The tool is planned to be upgraded to support more modifications such as at the end or middle of filename and also replace patterns of characters.
 
+Detailed Explanation-
+Suppose you have some files with certain names (say file1, file2, etc.) and you want to add "my_" at the start of name of all files, you can do it in seconds using this tool.
+Also if you have many files which have names like my_file1, my_file2, etc., you can use it to remove "my_" from names of all files at once.
+
 Prerequisites-
 1> Any version (Java 2 or later) of JDK or JRE must be installed.
 2> Supports all operating system that have JDK or JRE installed.
