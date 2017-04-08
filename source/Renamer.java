@@ -1,7 +1,14 @@
 /*
 * Renamer
 *
-* v1.0.0.0
+* v1.0.0.1
+*
+* --Changelog--
+* v1.0.0.1	(April 8, 2017)
+* Modified Credits.
+* v1.0.0.0 (April 7, 2017)
+* Initial.
+*
 *
 * 2017-April-5
 *
@@ -78,8 +85,10 @@ public class Renamer{
 		
 		//Credits
 		System.out.println("\n\nVisit http://www.empyreaninfotech.com/products/ to find more handy tools developed by me.\n");
-		System.out.println("\n\nDeveloped by : Divyansh Shekhar Gaur\nConnect with developer at:"
-			+"\n\tTwitter : https://www.twitter.com/divyanshshekhar"
+		System.out.println("\n\nDeveloped by : Divyansh Shekhar Gaur"
+			+"\nConnect with developer at:"
+			+"\n\tTwitter : https://www.twitter.com/divsgaur"
+			+"\n\tGitHub : https://github.com/divyanshshekhar"
 			+"\n\tGoogle Plus : https://plus.google.com/+DivyanshShekhar");
 			
 		System.out.println("\nThanks...");
